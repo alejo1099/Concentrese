@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1c1da80f4f2d5b644b17bff519654305
+timeCreated: 1509417833
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oh! Sweet Nuthin
+  fontNames:
+  - Oh! Sweet Nuthin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32d3357102a233f47b45d37bf874626c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

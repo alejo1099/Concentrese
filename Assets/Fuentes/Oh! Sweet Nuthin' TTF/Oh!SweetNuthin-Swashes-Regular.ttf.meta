@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 451d24d90597e7c4886c813dc7c1bed1
+timeCreated: 1509417833
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oh!SweetNuthin-Swashes
+  fontNames:
+  - Oh!SweetNuthin-Swashes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2d3287ff7fe37324a97c07c12ec9e7a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
